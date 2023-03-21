@@ -1,8 +1,7 @@
-*{
-    overflow: hidden;
-}
+
 .section{ 
     padding-top: 30px;
+    overflow: hidden;
 }
 h1{
     font-size: 3rem;
