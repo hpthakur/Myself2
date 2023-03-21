@@ -1,0 +1,82 @@
+.section{ 
+    padding-top: 30px;
+}
+h1{
+    font-size: 3rem;
+}
+h2{
+    font-size: 1.1rem;
+}
+.mountain{
+    height:45%;
+    margin:0px;
+    top: 170px;
+}
+.top-cloud{
+    position: absolute;
+    left:220px;
+    top: 150px;
+}
+.bottom-cloud{
+    top: 250px;
+    left: 20px;
+}
+#level-5 img {
+    height: 250px;
+}
+#level-2 h1{
+    font-size:3rem;
+}
+p{
+    font-size: .7rem;
+    width: 80%;
+    margin-top: 25px;
+}
+.my-image{
+    width: 100px;
+    height: 100px;
+}
+.working-Exp{
+    width: 70vw;
+    margin-top: 30px;
+}
+#level-3 h2{
+    font-size:1.5rem;
+    justify-content: center;
+}
+#level-3 ul{
+    line-height: 1;
+    font-size: .9rem;
+    width:200px;
+    position: absolute;
+    justify-content: center;
+}
+#level-3 li{
+    width: auto;
+}
+.skills{
+    font-size:3rem ;
+    margin-top: 50px;
+}
+#level-4 ul{
+    width: 10vw;
+}
+#level-5 img{
+    margin-top: 50px;
+}
+#level-6 p{
+    font-size: 1.1rem;
+}
+.btn{
+    position: relative;
+    top: 40px;
+}
+#level-7 a{
+    font-size: rem;
+}
+.footer{
+    width: 60vw;
+}
+.copyright {
+   height: 27px;
+}
